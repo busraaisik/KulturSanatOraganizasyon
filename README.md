@@ -1,52 +1,58 @@
-\# Kültür Sanat Organizasyon Sistemi
+# 🎭 Kültür Sanat Organizasyon Sistemi
 
+## 📌 Proje Hakkında
 
+Bu proje, kültür ve sanat etkinliklerinin yönetimini kolaylaştırmak amacıyla geliştirilmiş bir organizasyon sistemidir. Kullanıcılar etkinlikleri görüntüleyebilir, bilet işlemlerini gerçekleştirebilir ve organizasyon süreçlerini takip edebilir.
 
-\## Proje Hakkında
+## 🚀 Özellikler
 
-Bu proje kültür ve sanat etkinliklerinin yönetimini sağlayan bir organizasyon sistemidir.
+- Etkinlik yönetimi
+- Bilet satış işlemleri
+- Koltuk yönetimi
+- Bilet fiyatlandırma
+- İade işlemleri
+- Veritabanı kayıt ve sorgulama işlemleri
 
+## 🛠 Kullanılan Teknolojiler
 
+- C#
+- ASP.NET
+- MySQL
+- Entity Framework
+- Visual Studio
 
-\## Özellikler
+## 🗄 Veritabanı
 
-\- Etkinlik oluşturma
+Projenin veritabanı dosyası `Database` klasörü içerisinde bulunmaktadır.
 
-\- Etkinlik listeleme
+```sql
+kultursanatorgnizasyon.sql
+```
 
-\- Katılımcı yönetimi
+Bu dosya MySQL üzerinde çalıştırılarak veritabanı oluşturulabilir.
 
-\- Veritabanı işlemleri
+## ⚙ Kurulum
 
-\- Kullanıcı işlemleri
+1. Projeyi klonlayın:
 
+```bash
+git clone https://github.com/busraaisik/KulturSanatOraganizasyon.git
+```
 
+2. MySQL üzerinde SQL dosyasını çalıştırın.
+3. Connection String ayarlarını düzenleyin.
+4. Visual Studio ile çözümü açın.
+5. Projeyi çalıştırın.
 
-\## Kullanılan Teknolojiler
+## 👩‍💻 Geliştiriciler
 
-\- C#
+- Büşra Işık
+- Proje Ekibi
 
-\- ASP.NET
+## 📂 Proje Yapısı
 
-\- MySQL
-
-\- Entity Framework
-
-
-
-\## Kurulum
-
-1\. Projeyi klonlayın.
-
-2\. Veritabanını oluşturun.
-
-3\. Connection String ayarlarını yapın.
-
-4\. Projeyi çalıştırın.
-
-
-
-\## Geliştiriciler
-
-\- Büşra Işık
-
+- KulturSanat.BLL → İş katmanı
+- KulturSanat.DAL → Veri erişim katmanı
+- KulturSanat.Entity → Varlık sınıfları
+- KültürSanatOrganizasyon → Kullanıcı arayüzü
+- Database → Veritabanı dosyaları
