@@ -1,0 +1,6 @@
+C:\Users\Büşra\source\repos\KültürSanatOrganizasyon\KulturSanat.Entity\bin\Debug\KulturSanat.Entity.dll
+C:\Users\Büşra\source\repos\KültürSanatOrganizasyon\KulturSanat.Entity\bin\Debug\KulturSanat.Entity.pdb
+C:\Users\Büşra\source\repos\KültürSanatOrganizasyon\KulturSanat.Entity\obj\Debug\KulturSanat.Entity.csproj.AssemblyReference.cache
+C:\Users\Büşra\source\repos\KültürSanatOrganizasyon\KulturSanat.Entity\obj\Debug\KulturSanat.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Büşra\source\repos\KültürSanatOrganizasyon\KulturSanat.Entity\obj\Debug\KulturSanat.Entity.dll
+C:\Users\Büşra\source\repos\KültürSanatOrganizasyon\KulturSanat.Entity\obj\Debug\KulturSanat.Entity.pdb
